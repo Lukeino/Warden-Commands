@@ -1,9 +1,9 @@
-# DATABASE
+# WARDEN BOT DATABASE (Game Devs Italy DISCORD SERVER)
 
-# COMMANDS
+## COMMANDS
 !fondateam [Removed] (This command was used to create a team of game developers in the server, removed and replaced with forum mode.)
 
-# QUESTIONS
+## QUESTIONS
 Currently the bot has only Italian language support. It's not case sensitive!
 
 - Qualcuno mi aiuta?
