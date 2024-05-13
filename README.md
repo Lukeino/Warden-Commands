@@ -1,4 +1,4 @@
-# WARDEN BOT DATABASE (Game Devs Italy DISCORD SERVER)
+# WARDEN BOT COMMANDS LIST (Game Devs Italy DISCORD SERVER)
 
 ## COMMANDS
 !fondateam [Removed] (This command was used to create a team of game developers in the server, removed and replaced with forum mode.)
