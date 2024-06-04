@@ -1,7 +1,7 @@
 # WARDEN BOT COMMANDS LIST (Game Devs Italy DISCORD SERVER)
 
 ## COMMANDS
-!fondateam [Deprecated] (This command was used to create a team of game developers in the server, removed and replaced with forum mode.)
+!fondateam [Deprecated] (This command was used to create a team of game developers in the server, replaced with forum mode.)
 
 ## QUESTIONS
 Currently the bot has only Italian language support. It's not case sensitive!
